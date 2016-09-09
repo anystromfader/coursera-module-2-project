@@ -30,24 +30,17 @@ p {
 
 #p1 {
   background-color: pink;
-  position: relative;
-
 }
 
 #p2 {
   background-color: red;
-  position: relative;
-  
 }
 
 #p3 {
   background-color: yellow;
-  position: relative;
-
 }
 
 h2 {
-  position: relative;
   bottom: 50px;
   left: 50px;
 }
