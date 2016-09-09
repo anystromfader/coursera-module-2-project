@@ -22,19 +22,22 @@ margin: 10px;
 
 p {
   width: 100px;
-  height: 50px;
+  height: 25px;
 }
 
 #p1 {
   background-color: pink;
+  border: 3px solid black;
 }
 
 #p2 {
   background-color: red;
+  border: 3px solid black;
 }
 
 #p3 {
   background-color: yellow;
+  border: 3px solid black;
 }
 
 h2 {
