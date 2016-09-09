@@ -29,6 +29,9 @@ p {
 #p1 {
   background-color: pink;
   border: 3px solid black;
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 
 #p2 {
