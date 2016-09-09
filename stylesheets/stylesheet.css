@@ -4,6 +4,11 @@
   padding: 0; 
 }
 
+body {
+  margin: 10px;
+  padding: 10px;
+}
+
 h1 {
   margin-bottom: 15px;
   position: center;
@@ -11,6 +16,7 @@ h1 {
 
 div#container {
 background-color: #939393;
+padding: 10px 10px 10px 10px;
 position: relative;
 top: 60px;
 }
