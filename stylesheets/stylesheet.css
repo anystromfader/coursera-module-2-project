@@ -9,7 +9,7 @@ body {
 
 h1 {
   margin-bottom: 15px;
-  position: center;
+  text-align: center;
 }
 
 div#container {
@@ -21,26 +21,24 @@ margin: 10px;
 }
 
 p {
-  width: 100px;
-  height: 25px;
+  width: 150px;
+  height: 75px;
+  text-align: center;
 }
 
 #p1 {
   background-color: pink;
   border: 3px solid black;
-  font-style: bold;
 }
 
 #p2 {
   background-color: red;
   border: 3px solid black;
-  font-style: bold white;
 }
 
 #p3 {
   background-color: yellow;
   border: 3px solid black;
-  font-style: bold;
 }
 
 h2 {
