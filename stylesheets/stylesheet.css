@@ -23,7 +23,6 @@ margin: 10px;
 p {
   width: 100px;
   height: 50px;
-  border: 1px solid black;
 }
 
 #p1 {
@@ -185,8 +184,3 @@ h2 {
     width: 100%;
   }
 }
-
-
-
-
-
