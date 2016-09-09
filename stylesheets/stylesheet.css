@@ -95,7 +95,7 @@ h2 {
   .col-lg-12 {
     width: 100%;
   }
-
+}
 
 /*************** Medium/Tablet Devices ***************/
 @media (min-width: 768px) and (max-width: 991px) {
@@ -140,7 +140,7 @@ h2 {
   .col-md-12 {
     width: 100%;
   }
-
+}
 
 /*************** Small/Mobile Devices ***************/
 @media (max-width: 767px) {
@@ -185,7 +185,7 @@ h2 {
   .col-sm-12 {
     width: 100%;
   }
-
+}
 
 
 
