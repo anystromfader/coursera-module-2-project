@@ -28,7 +28,7 @@ p {
 }
 
 section {
-  clear: left;
+  clear: both;
 }
 
 #p1 {
