@@ -12,7 +12,7 @@ h1 {
   text-align: center;
 }
 
-div#container {
+#container {
 background-color: #939393;
 padding: 10px 10px 10px 10px;
 border: 3px solid black;
