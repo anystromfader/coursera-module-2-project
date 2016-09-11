@@ -24,6 +24,11 @@ p {
   width: 150px;
   height: 50px;
   text-align: center;
+  float: right;
+}
+
+section {
+  clear: left;
 }
 
 #p1 {
